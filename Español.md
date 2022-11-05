@@ -1,5 +1,4 @@
 > Explicare como lo hice para cualquier novato como yo.
- ------------------------------------------------------------------------------------------------
 > Primero verifique el nombre de sus dispositivos de interfaz a través del siguiente comando
 ```
 $ ip link show 
@@ -39,7 +38,6 @@ sudo nano /etc/systemd/system/macspoof@.service
 ```
 > luego copia y pega exactamente
 
----------------------------------------------------------------------------------------------------
 ```
 Unit]
 
@@ -63,7 +61,6 @@ Type=oneshot
 
 WantedBy=multi-user.target
 ```
-----------------------------------------------------------------------------------------------------
 
 > Salga y guarde, luego habilite sus dispositivos MAC. 
 > Yo lo hice con la interfaz de Ethernet y la inalámbrica.
@@ -76,7 +73,6 @@ $ sudo-i
  systemctl enable macspoof@<Nombre de su interfaz inalámbrica>.service
 ```
 > **reemplace <> con su dispositivo, por favor 
-
 > Ejemplo:
 ```
 systemctl enable macspoof@<wlan0>.service
