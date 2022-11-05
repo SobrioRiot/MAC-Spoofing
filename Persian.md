@@ -9,7 +9,7 @@ ip link show
 ```
 sudo apt install macchanger
 ```
-> *** می توانید MAC را از طریق *** تغییر دهید
+می توانید MAC را از طریق *** تغییر دهید
 ```
 sudo ifconfig <رابط> down
 
