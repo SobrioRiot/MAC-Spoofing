@@ -1,4 +1,4 @@
-> Explicare como lo hice para cualquier novato como yo.
+Explicare como lo hice para cualquier novato como yo.
 Primero verifique el nombre de sus dispositivos de interfaz a través del siguiente comando
 ```
 $ ip link show 
