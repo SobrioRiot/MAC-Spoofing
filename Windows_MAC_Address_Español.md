@@ -22,7 +22,7 @@ La forma más fácil de cambiar la dirección MAC en Windows es a través de las
 dejando el método del Registro como último recurso. Cuando esté listo, inténtelo:
 
 
-    Abra la ventana de Conexiones de Red y haga doble clic en el adaptador de red deseado.
+  > Abra la ventana de Conexiones de Red y haga doble clic en el adaptador de red deseado.
     En la ventana Estado de la conexión de red, haga clic en el botón Propiedades.
     En la ventana Propiedades de la conexión de red, haga clic en el botón Configurar.
     En la ventana de Propiedades del Adaptador de Red, seleccione la pestaña Avanzado.
@@ -37,7 +37,7 @@ Cuando estés listo, aquí tienes cómo editar la configuración del Registro de
 de Windows:
 
 
-    Abra el Editor del Registro escribiendo regedit en el campo del menú de inicio o en el indicador de ejecución.
+   >Abra el Editor del Registro escribiendo regedit en el campo del menú de inicio o en el indicador de ejecución.
     Busque la siguiente clave: 
     HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlClass{4D36E972-E325-11CE-BFC1-08002BE10318}
     Debería ver subclaves de 4 dígitos, como 0000, 0001, 0002, 0003, etc. 
