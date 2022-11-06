@@ -20,7 +20,7 @@
 ترک روش Registry به عنوان آخرین راه حل. وقتی آماده شدید، آن را امتحان کنید:
 
 
-    پنجره Network Connections را باز کرده و روی آداپتور شبکه مورد نظر دوبار کلیک کنید.
+ >  پنجره Network Connections را باز کرده و روی آداپتور شبکه مورد نظر دوبار کلیک کنید.
     در پنجره وضعیت اتصال شبکه، روی دکمه Properties کلیک کنید.
     در پنجره Network Connection Properties، روی دکمه Configure کلیک کنید.
     در پنجره Network Adapter Properties، تب Advanced را انتخاب کنید.
@@ -35,7 +35,7 @@
 تنظیمات رجیستری:
 
 
-    ویرایشگر رجیستری را با تایپ regedit در قسمت Start Menu یا Run Prompt باز کنید.
+   >ویرایشگر رجیستری را با تایپ regedit در قسمت Start Menu یا Run Prompt باز کنید.
     به کلید زیر مراجعه کنید:
     HKEY_LOCAL_MACHINESYSTEMCcurrentControlSetControlClass{4D36E972-E325-11CE-BFC1-08002BE10318}
     شما باید کلیدهای فرعی 4 رقمی مانند 0000، 0001، 0002، 0003 و غیره را ببینید.
