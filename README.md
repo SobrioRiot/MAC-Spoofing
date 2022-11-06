@@ -3,9 +3,9 @@
 Automatically change your MAC on each boot
 
  [English]
- > [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/English.md) 
+ > [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Linux_English.md) 
 
- > [Windows](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/MAC_Address_Spoofing_for_Windows_English.md)
+ > [Windows](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Windows_MAC_Address_Spoofing_English.md)
 
 M.A.C خود را به طور خودکار در هر بوت تغییر دهید
 
@@ -15,6 +15,8 @@ M.A.C خود را به طور خودکار در هر بوت تغییر دهید
 Cambia automáticamente tu MAC en cada arranque
 
  [Español]
+ > [Windows](ttps://github.com/SobrioRiot/MAC-Spoofing/blob/main/Windows_MAC_Address_Espa%C3%B1ol.md)
+
  > [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Spanish.md) 
  
 
