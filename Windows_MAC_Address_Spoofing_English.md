@@ -20,7 +20,7 @@ The more user-friendly way to change your MAC address in Windows is via the Netw
 leaving the Registry method as a last resort. When you’re ready, give it a try:
 
 
-    Open the Network Connections window and double-click the desired network adapter.
+   >Open the Network Connections window and double-click the desired network adapter.
     On the Network Connection Status window, click the Properties button.
     On the Network Connection Properties window, click the Configure button.
     On the Network Adapter Properties window, select the Advanced tab.
@@ -35,7 +35,7 @@ When you’re ready, here’s how to edit the Windows
 Registry setting:
 
 
-    Open the Registry Editor by typing regedit into the Start Menu field or Run prompt.
+   >Open the Registry Editor by typing regedit into the Start Menu field or Run prompt.
     Browse to the following key: 
     HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlClass{4D36E972-E325-11CE-BFC1-08002BE10318}
     You should see 4-digit sub-keys, such as 0000, 0001, 0002, 0003 and so on. 
