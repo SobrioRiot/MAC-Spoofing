@@ -10,12 +10,12 @@ Cambia automáticamente tu MAC en cada arranque
   [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/English.md) 
   [Windows](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/MAC_Address_Spoofing_for_Windows_English.md)
  
- #[Persian]
+# [Persian]
   [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Persian.md) 
 
 
- #[Español]
+# [Español]
   [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Spanish.md) 
  
 
-# 
+
