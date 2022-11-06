@@ -33,11 +33,7 @@ Los adaptadores de red vienen preconfigurados de fábrica con su propia direcci�
 Hay algunas razones por las que podrías querer simular otra dirección MAC, incluyendo la resolución de problemas y la prueba de tu red. Desde el punto de vista de la seguridad, es una buena idea entender la técnica, conocida como "MAC spoofing", porque los hackers también la encuentran útil para evitar el filtrado de direcciones MAC. Este filtrado es utilizado por algunos administradores de red para ayudar a controlar los dispositivos que los usuarios finales pueden conectar a la red o incluso como otra capa de seguridad contra los hackers. Aunque sólo sea por eso, entender el MAC spoofing te ayudará a demostrarte a ti mismo o a los demás lo fácil que es cambiar tu dirección y saltarse las medidas de seguridad basadas en la MAC.
 
  
- > [Windows](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Windows_MAC_Address_Espa%C3%B1ol.md)
-
- > [Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Spanish.md) 
-
- > [Mac](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Mac_MAC_Spoofing_Esp.md)
+[Windows](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Windows_MAC_Address_Espa%C3%B1ol.md) |[Linux](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Spanish.md)|[Mac](https://github.com/SobrioRiot/MAC-Spoofing/blob/main/Mac_MAC_Spoofing_Esp.md)
  
 
 
