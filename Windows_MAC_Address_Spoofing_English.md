@@ -38,7 +38,8 @@ Registry setting:
    >Open the Registry Editor by typing regedit into the Start Menu field or Run prompt.
     Browse to the following key: 
     HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlClass{4D36E972-E325-11CE-BFC1-08002BE10318}
-    You should see 4-digit sub-keys, such as 0000, 0001, 0002, 0003 and so on. 
+
+   >You should see 4-digit sub-keys, such as 0000, 0001, 0002, 0003 and so on. 
     Find the right network adapter by referencing the DriverDesc 
     attribute of each sub-key.
     Once you find the desired adapter, see if it contains a NetworkAddress attribute. 
